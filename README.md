@@ -45,6 +45,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LyanKaleu/LyanKaleu/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/LyanKaleu/LyanKaleu/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LyanKaleu&repo=LyanKaleu&theme=react)](https://github.com/LyanKaleu/LyanKaleu)
 
 ###
