@@ -36,7 +36,7 @@
   <a href="https://discord.com/users/479092197837373450" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Kaleu&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="www.linkedin.com/in/lyan-kaleu-meneses-de-sousa-4b3684149" target="_blank">
+  <a href="https://www.linkedin.com/in/lyankaleu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Lyan%20Kaleu&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
