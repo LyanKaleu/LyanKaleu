@@ -3,9 +3,32 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LyanKaleu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <a href="https://github.com/LyanKaleu">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=LyanKaleu&custom_title=&rank_icon=github&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=LyanKaleu&custom_title=&rank_icon=github&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img width="45%" height=200 src="https://github-readme-stats.vercel.app/api?username=LyanKaleu&custom_title=&rank_icon=github&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/LyanKaleu">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img width="45%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true" />
+    </picture>
+  </a>
 
 ###
 
