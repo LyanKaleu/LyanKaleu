@@ -1,73 +1,75 @@
-<h2 align="left">Hi! Welcome to my profile!👋</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=8cff00&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
+#
+<p align="center">
+  <img src=".github/workflows/.gif" />
+</p>
+</h3>
 
-###
+#
+<p align="left">
+🔷 Sou estudante de Ciência da Computação, com formação técnica em Desenvolvimento de Sistemas pelo IFPI, buscando unir fundamentos de computação, desenvolvimento de software e dados.
 
-<div align="center">
-  <a href="https://github.com/LyanKaleu">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=LyanKaleu&custom_title=&rank_icon=github&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=LyanKaleu&custom_title=&rank_icon=github&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img width="45%" height=200 src="https://github-readme-stats.vercel.app/api?username=LyanKaleu&custom_title=&rank_icon=github&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"/>
-    </picture>
-  </a>
-  <a href="https://github.com/LyanKaleu">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img width="45%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=LyanKaleu&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true" />
-    </picture>
-  </a>
+🔷 Tenho interesse em desenvolvimento backend, inteligência artificial, bancos de dados e engenharia de software, sempre buscando transformar conhecimento teórico em soluções práticas.
 
-###
+🔷 Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados, explorando programação, estatística, bancos de dados e inteligência artificial.
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN295ajQzaDFsbG1vZjNieWhwc2d2bGRyZHgwMnpvMmxmNndmam1nZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
+🔷 Meu objetivo é evoluir continuamente como profissional de tecnologia, construindo soluções eficientes e adquirindo uma visão cada vez mais ampla sobre software, dados e inteligência artificial.
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+#
+<h3 align="left">My Stack:</h3> 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
 </div>
 
-###
+#
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LyanKaleu&theme=github_dark&animation=load&duration=5&name=Lyan+Kaleu)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LyanKaleu&theme=github_dark&animation=load&duration=5&exclude=html%2C+css%2C+TeX)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LyanKaleu&theme=github_dark&animation=load&duration=5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LyanKaleu&theme=github_dark&animation=load&duration=5&utcOffset=-3)
+
+#
+
+<h3 align="left">Let's connect!</h3>
 <div align="left">
-  <a href="https://www.instagram.com/lyankms_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=lyankms_&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/479092197837373450" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Kaleu&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lyankaleu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Lyan%20Kaleu&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/lyankaleu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lyankaleu12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/LyanKaleu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.instagram.com/lyankms_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LyanKaleu/LyanKaleu/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lh3.googleusercontent.com/pw/AP1GczMVFX-07bFv0f8rFW4NVbEXO5IcZUL6ueDNrGP8x1Eh2udMSTZtCbCKX_Zh-mv9E1kSOKYHDCIzux63B0aBUOxl9J5OIS5deTdbsmzU4BWkeXDynz2SOq1QfHMwzyj6suBzIm4aBwb_5CV8xE0S_K0U=w1200-h180-s-no-gm?authuser=0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://lh3.googleusercontent.com/pw/AP1GczPnbf0xRZf3nH32GhU_gSWnkRD1lgRX99tsUq0s0pQztn4zf8NmTV2lNeNGKnze5sXFQm9oslp3GgZu1bzNqxOKn0chzrxYSjF8sthtbp-FhjRSBTnM-A-RdIBrWW4Sp4VLTG6RjCky3eH_301cG3hD=w1200-h180-s-no-gm?authuser=0" />
+  <img width="100%" align="center" src="https://lh3.googleusercontent.com/pw/AP1GczMVFX-07bFv0f8rFW4NVbEXO5IcZUL6ueDNrGP8x1Eh2udMSTZtCbCKX_Zh-mv9E1kSOKYHDCIzux63B0aBUOxl9J5OIS5deTdbsmzU4BWkeXDynz2SOq1QfHMwzyj6suBzIm4aBwb_5CV8xE0S_K0U=w1200-h180-s-no-gm?authuser=0">
+</picture>
 
 ###
+
+###
+<p align="center">
+<i>"A tecnologia move o mundo!"</i> 
+</p>
