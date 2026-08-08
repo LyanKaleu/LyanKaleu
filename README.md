@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=8cff00&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=4401F5&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src=".github/workflows/.gif" />
+  <img src=".github/workflows/Banner Readme Github.gif" />
 </p>
 </h3>
 
